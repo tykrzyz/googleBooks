@@ -1,0 +1,24 @@
+main{
+    justify-content: center;
+}
+
+.book-list{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.search-form{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.search-box{
+    flex:1;
+    margin: 5px;
+}
+
+.filters{
+    flex: 1;
+}
